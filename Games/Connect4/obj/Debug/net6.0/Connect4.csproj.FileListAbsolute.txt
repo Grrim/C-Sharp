@@ -1,0 +1,15 @@
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\bin\Debug\net6.0\Connect4.exe
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\bin\Debug\net6.0\Connect4.deps.json
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\bin\Debug\net6.0\Connect4.runtimeconfig.json
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\bin\Debug\net6.0\Connect4.dll
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\bin\Debug\net6.0\Connect4.pdb
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.csproj.AssemblyReference.cache
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.AssemblyInfoInputs.cache
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.AssemblyInfo.cs
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.dll
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\refint\Connect4.dll
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.pdb
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\Connect4.genruntimeconfig.cache
+C:\Users\grzes\OneDrive\Pulpit\C#\Connect4\obj\Debug\net6.0\ref\Connect4.dll
