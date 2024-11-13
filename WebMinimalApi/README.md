@@ -5,7 +5,7 @@
 - Tworzy encję Person z polami: ID, FirstName, LastName, BirthDate, Address,
 - Aplikacja rejestruje endpointy API, pozwalające na operacje CRUD na encji Person,
 - Przeprowadza walidację danych przy operacjach dodawania i aktualizacji osoby,
-- Dane zostają automatycznie usunięte z pamięci po zatrzymaniu aplikacj.
+- Dane zostają automatycznie usunięte z pamięci po zatrzymaniu aplikacji.
   
 ### Obsługa endpointów API
 
