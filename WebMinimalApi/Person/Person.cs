@@ -20,7 +20,7 @@ public class Person
     
     [Required(ErrorMessage = "Address is required")]
     [MinLength(2, ErrorMessage = "The address must be at least 3 characters long")]
-    public string? Address {get; set;}
+    public string Address {get; set;}
 }
 
 public class IsPastDate : ValidationAttribute
