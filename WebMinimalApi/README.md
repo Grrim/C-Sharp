@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ca5f4aa-d4cf-41a8-a3ff-7ecd0aa0c761)### Implementacja Minimal API w .NET 
+### Implementacja Minimal API w .NET 
 
 - Aplikacja uruchamia Minimal API na .NET 8,
 - Konfiguruje bazę danych InMemory za pomocą Entity Framework Core,
