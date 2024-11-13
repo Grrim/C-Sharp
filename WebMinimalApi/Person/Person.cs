@@ -4,7 +4,6 @@ namespace WebMinimalApi;
 
 public class Person
 {
-    
     public int Id {get; internal set;}
     
     [Required(ErrorMessage = "First name is required")]
