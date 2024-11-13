@@ -15,7 +15,8 @@
     - Zwraca 201 Created po pomyślnym dodaniu lub 400 Bad Request w przypadku błędów walidacji.
 - #### GET /api/persons
     - Zwraca listę wszystkich osób w bazie danych,
-    - Wysyła listę osób z kodem 200 OK.
+    - Wysyła listę osób z kodem 200 OK,
+    - Jeśli lista jest pusta, zwraca 204 No Content.
 - #### GET /api/persons/{id}
     - Pobiera dane konkretnej osoby na podstawie jej ID,
     - Jeśli osoba istnieje, zwraca jej dane z kodem 200 OK,
