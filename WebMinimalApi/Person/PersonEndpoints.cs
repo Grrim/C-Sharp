@@ -9,7 +9,12 @@ public static class PersonEndpoints
     {
         app.MapGet("api/persons", async (PersonsContext db) =>
         {
-            return Results.Ok(await db.Persons.ToListAsync());
+            var person = await db.Persons.ToListAsync();
+            if (person.Count() == 0)
+            {
+                return Results.NoContent();
+            }
+            return Results.Ok(person);
         });
 
         app.MapGet("api/persons/{id}", async (PersonsContext db, int id) =>
