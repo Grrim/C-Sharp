@@ -3,8 +3,10 @@
 - Aplikacja uruchamia Minimal API na .NET 8,
 - Konfiguruje bazę danych InMemory za pomocą Entity Framework Core,
 - Tworzy encję Person z polami: ID, FirstName, LastName, BirthDate, Address,
-- Aplikacja rejestruje endpointy API, pozwalające na operacje CRUD na encji Person
-
+- Aplikacja rejestruje endpointy API, pozwalające na operacje CRUD na encji Person,
+- Przeprowadza walidację danych przy operacjach dodawania i aktualizacji osoby,
+- Dane zostają automatycznie usunięte z pamięci po zatrzymaniu aplikacj.
+  
 ### Obsługa endpointów API
 
 - #### POST /api/persons
